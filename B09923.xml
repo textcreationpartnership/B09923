@@ -1,0 +1,1854 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle concerning baptism. [occai]sionally written upon the sight [of] two treatises published by Thomas James father of a Presbyterian congre[ga]tion at Ashford in Kent : who [ha]th reflected upon the baptized [C]hristians / [by] [W]illiam Russell.</title>
+            <author>Russel, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09923</idno>
+            <idno type="OCLC"> 64551723</idno>
+            <idno type="STC">Wing R2357B</idno>
+            <idno type="STC">ESTC R187283</idno>
+            <idno type="EEBO-CITATION">64551723</idno>
+            <idno type="OCLC">ocm 64551723</idno>
+            <idno type="VID">184789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184789)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle concerning baptism. [occai]sionally written upon the sight [of] two treatises published by Thomas James father of a Presbyterian congre[ga]tion at Ashford in Kent : who [ha]th reflected upon the baptized [C]hristians / [by] [W]illiam Russell.</title>
+                  <author>Russel, William.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Lon]don :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages have faded print and are tightly bound with some loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, Thomas.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184789:1" rendition="simple:additions"/>
+            <p>AN <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>PISTLE Concerning BAPTISM.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aſionally written upon the ſight of two Treatiſes publiſhed by <hi>THOMAS JAMES,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cher of a Presbyterian Congre<g ref="char:EOLhyphen"/>gation at <hi>Aſhford</hi> in <hi>Kent:</hi> Who hath reflected upon the Baptized Chriſtians.</p>
+            <p>
+               <hi>WILLIAM R<g ref="char:V">Ʋ</g>SSEL,</hi> Medicinae Doctor, Academiae Cantabrigienſis, <hi>Lover of Primitive Chriſtianity.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for the old Paths, where is the good Way, and walk therein, and ye ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reſt for your Souls,</p>
+               <bibl>
+                  <hi>Jer. 6.16.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184789:2"/>
+            <pb n="3" facs="tcp:184789:2"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe Inhabitants of <hi>Aſhford,</hi> and the adjacent Pariſhes, who attend upon the Miniſtry of Mr. <hi>Thomas James.</hi>
+            </head>
+            <p>THE Occaſion of my writing this Epiſtle to you at this time, ariſeth from the Conſidera<g ref="char:EOLhyphen"/>tion of two Books written by <hi>T. J.</hi> The one intituled, <hi>Spira</hi>'s <hi>Deſpair revived.</hi> The other called, <hi>A Vindication of that Part of it which is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed by the Anabaptiſts,</hi> &amp;c. which is a pretended An<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o a Book written by <hi>J. W.</hi> in Anſwer to his firſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>&amp;c.</hi> the latter of which he dedicates to you.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which Book he brings you in as Parties with him, in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>deracy againſt that People; as making you to have <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>al, if not a greater Intereſt than him, in that Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ar he hath raiſed againſt them.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeeing it hath pleaſed God (by his good Provi<g ref="char:EOLhyphen"/>dence) to put it into the Hearts of our King, and both <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of Parliament, to give us the free Exerciſe of our <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on by Law, (which we eſteem as a great Mercy) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a wonder to me to read ſuch ſcurrilous and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ful Language, againſt thoſe of our Perſwaſion; and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ore, for that it proceeds from one who is himſelf a <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>er from the eſtabliſhed Religion of the Land, and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ther of a Presbyterian Congregation. And to find <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ubliſhing to the World, that the Inhabitants of <hi>Aſh<g ref="char:EOLhyphen"/>ford</hi> and divers other Pariſhes, did join iſſue with him in <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ng; it ſeems to beſpeak but little Senſe of the Good<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> God, and of our Rulers, in the Liberty you enjoy. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whereas thoſe Miniſters that are of the Epiſcopal <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>iſion, do give us civil Treatment, and do not con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> themſelves to diſturb our Peace and Quiet, much leſs <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>oach and abuſe us: I was conſidering what ſhould
+<pb n="4" facs="tcp:184789:3"/>move Mr. <hi>Thomas James</hi> to act as he hath done: And at laſt I concluded it muſt certainly proceed from that very Spi<g ref="char:EOLhyphen"/>rit and Principle of the firſt Founder of your Sect, Mr. <hi>John Calvin,</hi> who burnt the Books of <hi>Servetus,</hi> a Learned <hi>Baptiſt;</hi> and afterwards perſwaded the Magiſtrates of <hi>Ge<g ref="char:EOLhyphen"/>neva</hi> to burn him alive. Which Sentence was execute<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon him, as <hi>Caſtellio</hi> teſtifies (who was a Contemporary with him) in theſe words; Michael Servetus <hi>was burn alive for his Opinion, at</hi> Geneva, <hi>Anno</hi> 1553, <hi>upon the 27th day of</hi> October.</p>
+            <p>And yet, as one well obſerves, Mr. <hi>Calvin</hi> did acknow<g ref="char:EOLhyphen"/>ledg this of him, That he was a Learned and a Charita<g ref="char:EOLhyphen"/>ble Man.</p>
+            <p>Notwithſtanding this, he wrote a Book to juſtify, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> putting him to death, as a Man whoſe Books were full <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Errors. Which Book was ſufficiently confuted by t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Learned <hi>Caſtellio;</hi> where he alſo ſhews that the Reaſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Calvin</hi> procured his Death, was this, leſt the excelle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Parts and Learning of <hi>Servetus</hi> ſhould have eclipſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Glory of <hi>Calvin,</hi> and prevented him from being the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of a Party. And yet <hi>Caſtellio</hi> was not a <hi>Baptiſt.</hi>
+            </p>
+            <p>Now if Mr. <hi>James</hi> ſhould have imbibed the ſame per<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cuting Principles, it is no wonder to find ſo much Ranc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Spirit appear in him againſt the <hi>Baptiſts</hi> in our Day as he hath expreſſed in theſe two Treatiſes. I ſpeak <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this, as if I meant to accuſe the whole Party; for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know that divers of them are meliorated, and have mani<g ref="char:EOLhyphen"/>feſted themſelves to be Men of better and more peacea<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Principles. But ſeeing there are ſome young Men of ano<g ref="char:EOLhyphen"/>ther mind, I thought it not amiſs to give you a Cau<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> againſt it, remembring what an honeſt old Presbyter<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Miniſter ſaid once to ſome others of his Brethren, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> met to ordain three young Miniſters who had decla<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> themſelves for this perſecuting Principle; ſaith he, <q>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will have no hand in their Ordination, for there <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Firebrands enough in the World already; and (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pleaſe God) I will have no hand in ſending more, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch as they are enough to ſet the World in a Fla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> where-ever they come.</q>
+            </p>
+            <p>And I fear your young Man may be of that number <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pray let me ask you a few civil Queſtions; which I de<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> you to propound to him, and do you demand of him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ticular and diſtinct Anſwers thereunto.</p>
+            <list>
+               <pb n="5" facs="tcp:184789:3"/>
+               <item>1. Whether Mr. <hi>James</hi> doth not believe the Epiſcopal Church of <hi>England</hi> to be a true Church? and their Tea<g ref="char:EOLhyphen"/>chers to be true Miniſters?</item>
+               <item>2. Whether he doth not own their Baptiſm and Ordi<g ref="char:EOLhyphen"/>nation to be true and valid?</item>
+               <item>3. Whether he doth not think it lawful for you to go to their publick Worſhip, and attend upon their Miniſtry in their Parochial Aſſemblies; rather than ſuffer Impriſon<g ref="char:EOLhyphen"/>ment, and the loſs of your Eſtates? And if this be ſo,</item>
+               <item>Then, 4. what can be the Motive to excite <hi>Thomas <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mes</hi> to keep up a Separation from the eſtabliſhed Church <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>England,</hi> now in a Time of Peace? unleſs it be to get <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> better livelihood for himſelf, than he could otherwiſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ain.</item>
+               <item>5. Whether the fear of loſing ſome of his Auditors, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing hindred from an increaſe of their Number, by which his Income might be diminiſhed, might not be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e great Motive which excited him to ſuch a fooliſh way <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſcribling againſt the <hi>Baptiſts?</hi>
+               </item>
+               <item>6. Whether it doth not therefore highly concern you, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> make a diligent Enquiry into the Word of God, and ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne his Doctrines thereby, that you may ſee whether <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y agree with the Doctrine and Practice of the Apoſtles <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Primitive Chriſtians, leſt you ſhould be cheated, both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your Money and of your Souls?</item>
+            </list>
+            <p>Now, Sirs, if a prejudicate Opinion doth not interpoſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubt not but it may be ſaid of you as of thoſe in <hi>Acts</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.48. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, you are diſpoſed to eternal Life: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed then there will be ſome hope, you will give credit to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Authority of God, in the Goſpel of his dear Son, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d be willing to learn what may be taught you.</p>
+            <p>Had not Mr. <hi>James</hi> oppoſed us in the Point of Holy Bap<g ref="char:EOLhyphen"/>tiſm, I had not concerned my ſelf with him, believing he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſufficiently confuted about his Calumnies againſt our friends at <hi>Aſhford</hi> by another hand.</p>
+            <p>I ſhall therefore (for the ſake of Truth) uſe my endea<g ref="char:EOLhyphen"/>vour to elucidate the Point in controverſy, that you may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re a more clear and diſtinct knowledg of it.</p>
+            <p>Neither you nor your Teacher, ought to think it below <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be inſtructed in any Goſpel-Truth, but receive it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meekneſs and humility; and be thankful to them that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take the pains to do it.</p>
+            <p>
+               <pb n="6" facs="tcp:184789:4"/>
+For <hi>Apollos,</hi> who was a great Preacher, and a Man mighty in the Holy Scriptures, did not diſdain that a Wo<g ref="char:EOLhyphen"/>man ſhould inſtruct him in the Way of God more per<g ref="char:EOLhyphen"/>fectly, <hi>Acts</hi> 18.24, 25, 26.</p>
+            <p>And for your better underſtanding the Point in Con<g ref="char:EOLhyphen"/>troverſy, I ſhall do theſe three things.</p>
+            <list>
+               <item>I. Shew you, that Baptiſm is to be adminiſtred by Dip<g ref="char:EOLhyphen"/>ping, Plunging, or overwhelming the Perſon in Water.</item>
+               <item>II. That true penitent Believers are the right Subject of Baptiſm.</item>
+               <item>III. That the Ordinance of Baptiſm is now in being and is to continue to the End of this World.</item>
+            </list>
+            <p n="1">I. I ſhall ſhew that Baptiſm muſt be adminiſtred by Dipping, <hi>&amp;c.</hi> if we conſider theſe four things.</p>
+            <list>
+               <item>1. The Etymology, or Signification of the Word, the Holy Spirit uſes to expreſs it by.</item>
+               <item>2. Thoſe Metaphors uſed in Holy Scripture, to repre<g ref="char:EOLhyphen"/>ſent it to our Underſtanding.</item>
+               <item>3. From the Practice of the firſt Baptizers.</item>
+               <item>4. From the grand Commiſſion of our Saviour, <hi>Mat.</hi> 28.19.</item>
+            </list>
+            <p n="1">1. From the Etymology, or Signification of the Word.</p>
+            <p>The word <hi>Baptiſm,</hi> is from the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to dipt. <hi>Baptiſma,</hi> a Dipping; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Bapto,</hi> to dip, plunge or drown. It implieth the waſhing of the whole Body <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> even ſuch a waſhing as is uſed in Bucks, where Linen i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plunged and dipt. For the native and proper ſignification of it, is to dip into Water, or to plunge under Water, ſee <hi>Leigh</hi>'s <hi>Critica Sacra.</hi>
+            </p>
+            <p>It is a Metaphor taken from the uſe of the Dyers Vat <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and is ſuch a Dipping, by which the Cloth put into it is dyed, and not a bare waſhing only; from whence cometh Baptiſm.</p>
+            <p>
+               <hi>Zepperus de Sacramentis</hi> ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Baptiſm; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vocis notationem attendere velimus, vocabulum Baptiſmi merſio<g ref="char:EOLhyphen"/>nem ſignificat in aquam,</hi> &amp;c. If we will attend to the No<g ref="char:EOLhyphen"/>tation of the word <hi>Baptiſm,</hi> it ſignifies to dip into Water <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or the Act it ſelf of Dipping and Waſhing. From hence therefore, and from the Etymology of the Word it ſelf, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth appear what was the Cuſtom of adminiſtring Bap<g ref="char:EOLhyphen"/>tiſm
+<pb n="7" facs="tcp:184789:4"/>from the beginning. Whereas now (ſaith he) we <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ther uſe Rantiſm (<hi>viz.</hi> Sprinkling) in the ſtead of Bap<g ref="char:EOLhyphen"/>tiſm, which is Dipping.</p>
+            <p>
+               <hi>Alſtedius</hi> in his <hi>Lexicon Theologicum,</hi> printed <hi>Anno</hi> 1612. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 310. ſaith thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Tingere, lavare, inficere: unde deductum aliud ver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>intingere, immergere, maximè quidem aquâ. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>tantum ſignificat immergere; non lavare, niſi <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unſequenti.</hi>
+            </p>
+            <p>From whence it may plainly be ſeen, that this Learned <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hor doth aſſert, That Baptiſm is to dip, plunge, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whelm the Perſon baptized in Water: And that its <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>per ſignification is to dip, or dye, and not to waſh, but <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y by Conſequence. For which he cites for his Autho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, both <hi>Plutarch</hi> and <hi>Nazianzen;</hi> as may be ſeen at large <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Book it ſelf.</p>
+            <p>Beſides this is ſo well known, that every School-boy in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Greek-Grammar can tell you, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>bapto,</hi> is <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>re rendred <hi>mergo, immergo,</hi> to dip, to plunge or over<g ref="char:EOLhyphen"/>whelm.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo in a <hi>Greek Lexicon,</hi> publiſhed and recommended to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the encreaſe of Knowledg, by
+<list>
+                  <item>
+                     <hi>Joſeph Caryll,</hi>
+                  </item>
+                  <item>
+                     <hi>George Cokayne,</hi>
+                  </item>
+                  <item>
+                     <hi>Ralph Vening,</hi>
+                  </item>
+                  <item>
+                     <hi>William Dell,</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Barker,</hi>
+                  </item>
+                  <item>
+                     <hi>William Adderly,</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Mead,</hi> and</item>
+                  <item>
+                     <hi>Henry Jeſſey,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey tell us, that the ſignification of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is to dip, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ge, or drown. And in the Paſſive Voice, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be plunged, or overwhelmed. And that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to plunge, to overwhelm, to baptize, to dip. And in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paſſive Voice, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be plunged, to be bap<g ref="char:EOLhyphen"/>tized, or dipped.</p>
+            <p>In <hi>Clavis Graecae Linguae,</hi> printed at <hi>London, Anno</hi> 1640. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is thus rendred; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mergo, tingo,</hi> to dip, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dye. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Idem,</hi> the ſame.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>merſio,</hi> to drown; and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is often rendred, to dip into, to drown. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from thence the Latins uſe <hi>merſus, à mergo,</hi> drowned, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ered, or over whelmed with Water. And therefore it <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſed in the New Teſtament, for that Holy Ordinance of
+<pb n="8" facs="tcp:184789:5"/>Baptiſm; it being performed by dipping the whole Body of the Perſon baptized under Water.</p>
+            <p>The Learned <hi>Robertſon,</hi> (my ſingular good Friend) in his <hi>Theſaurus Graecae Linguae,</hi> ſaith, <hi>Baptizo, mergo.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Intingo, mergo,</hi> to dye, to dip, plunge, <hi>&amp;c.</hi> Hence (ſaith he) is <hi>Baptizo,</hi> which ſignifies the ſame. As alſo <hi>Baptiſ<g ref="char:EOLhyphen"/>mos, Baptiſma,</hi> &amp;c. But the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ran<g ref="char:EOLhyphen"/>tizo,</hi> (he ſaith) is <hi>aſpergo,</hi> to ſprinkle.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rontiſmos, Aſperſio,</hi> Sprinkling. So that you may ea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is as much difference betwint theſe two Greek <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Baptiſmos</hi> and <hi>Rantiſmos</hi> in Greek, as there is betwixt theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> words, Dipping and Sprink<g ref="char:EOLhyphen"/>ling in Engliſh; and therefore ſurely, not to be conceived to be ſy<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>imous, ſo as to ſignity the ſame thing.</p>
+            <p>I now preſume, from what hath been ſaid, that if the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and its Derivatives, are uſed in all places in the New Teſtament, where this Ordinance of Baptiſm is ſpoken of: Then it will follow, by an unavoidable Con<g ref="char:EOLhyphen"/>ſequence, that Dipping is the right manner of Baptizing and that Sprinkling is not Baptizing.</p>
+            <p>That it is ſo, will evidently appear from an Enumeration of Particulars. I will inſtance in ſome of the principal, when I come to ſhew you what was the Practice of the firſt Baptizers. But of that in its proper place.</p>
+            <p>I now come to treat of the ſecond Particular under this Head, <hi>viz.</hi> Dipping the Perſons baptized into Water, ap<g ref="char:EOLhyphen"/>pears to be the right way of adminiſtring this Ordinance if we conſider the Metaphors uſed in Holy Scripture <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expreſs it by.</p>
+            <p>There are two I ſhall chiefly inſiſt upon: 1. A Burial 2. A Reſurrection.</p>
+            <p>We are to conſider, that our Lord Jeſus Chriſt hath no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> burdened us under the Goſpel, with a multitude of Cere<g ref="char:EOLhyphen"/>monies, as it was in that Oeconomy of the Jews under the Legal Diſpenſation: But only with ſome few, and thoſe very ſignificant; this being a more ſpiritual Diſpenſation.</p>
+            <p>As therefore the Holy Supper of our Lord in the break<g ref="char:EOLhyphen"/>ing of the Bread, ſignifies the breaking of his Body; and the pouring out of the Wine, the ſhedding of his moſt pre<g ref="char:EOLhyphen"/>cious Blood; and both of theſe in conjunction his Death 1 Cor. 11.26. <hi>For as often as you eat this Bread, and drive this Cup, ye do ſhew forth the Lord's Death till he come.</hi>
+               <pb n="9" facs="tcp:184789:5"/>Even ſo Holy Baptiſm doth ſhew forth his Burial and direction; Rom. 6.4. <hi>Therefore we are buried with him baptiſm into Death; that like as Chriſt was raiſed up from Dead to the Glory of the Father, even ſo we alſo ſhould walk <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſs of Life.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow conſider the Metaphor: when Men are dead, we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them by covering the whole Body under Ground, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not by ſcattering or ſprinkling a little Duſt or Earth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Faces only.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>prinkling (you know) hath no reſemblance to Bu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>; but dipping or plunging the whole Body under Wa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is a moſt expreſs and lively repreſentation thereof.</p>
+            <p>But perhaps Humane Teſtimonies will pleaſe you and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paſtor, better than Divine. And therefore I ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you the Opinion of ſome Learned Biſhops to corro<g ref="char:EOLhyphen"/>borate what I ſay, who may be ſuppoſed to underſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Original as well as Mr. <hi>James.</hi>
+            </p>
+            <p>The late Arch-Biſhop of <hi>Canterhury,</hi> Dr. <hi>John Tillotſon,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h, in his Sermon upon 2 <hi>Tim.</hi> 2.19. <q>Antiently thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho were baptized, put off their Garments, which ſignified the putting off the Body of Sin; and were im<g ref="char:EOLhyphen"/>merſed and buried in the Water, to repreſent the Death of Sin; and then did riſe up again out of the Water, to ſignify their entrance upon a new Life; and to theſe Cuſtoms the Apoſtle alludes <hi>Rom.</hi> 6.4.</q>
+            </p>
+            <p>Alſo Dr. <hi>Fowler,</hi> the preſent Biſhop of <hi>Glouceſter,</hi> in his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook of the <hi>Scope of the Chriſtian Religion,</hi> interprets this ſaying of the great Apoſtle, <hi>Rom.</hi> 6.4. as follows;</p>
+            <p>
+               <q>Chriſtians being plunged into the Water in Baptiſm, ſignifieth their undertaking and obliging themſelves in a Spiritual Senſe to die, and be buried with Jeſus Chriſt, (which Death and Burial conſiſt in an utter renouncing and forſaking of all their Sins) that ſo anſwerably to his Reſurrection, they may live a holy and godly Life.</q>
+            </p>
+            <p>Moreover, Dr. <hi>Jer. Taylor,</hi> late Biſhop of <hi>Down,</hi> in his <hi>Doctor Dubitantium, lib.</hi> 3. <hi>cap.</hi> 4. ſaith thus:</p>
+            <p>
+               <q>The Cuſtom of the Antient Church was not Sprink<g ref="char:EOLhyphen"/>ling, but Immerſion, in purſuance of the Senſe of the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, both in the Commandment and Ex<g ref="char:EOLhyphen"/>ample of our Bleſſed Saviour.</q>
+            </p>
+            <p>
+               <q>And this (ſaith he) agrees with the Myſtery of the Sacrament it ſelf; for we are <hi>buried with him in Baptiſm,</hi>
+                  <pb n="10" facs="tcp:184789:6"/>ſaith the Apoſtle. The old Man is buried and drowned i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Immerſion under Water: and when the baptized Perſon is lifted up from the Water, it repreſents the Re<g ref="char:EOLhyphen"/>ſurrection of the new Man to newneſs of Life.</q>
+            </p>
+            <p>To this I ſhall only add that other Divine Teſtimony o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Apoſtle <hi>Paul,</hi> Col. 2.12. <hi>Buried with him in Baptiſm wherein alſo ye are riſen with him through the Faith of the Opera<g ref="char:EOLhyphen"/>tion of God, who hath raiſed him from the Dead.</hi> And ſhall now proceed to the third Particular, <hi>viz.</hi>
+            </p>
+            <p n="3">3. It doth appear that Dipping is the right way of Bap<g ref="char:EOLhyphen"/>tizing, from the Practice of the firſt Baptizers.</p>
+            <p>The firſt mention of this Ordinance of Holy Baptiſm, we have in <hi>Mat.</hi> 3.1. where <hi>John the Dipper</hi> is mentioned. And in <hi>ver.</hi> 6. it is written, <hi>And were baptized of him in</hi> Jordan <hi>confeſſing their Sins.</hi> The Greek word there is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; which is in Engliſh, They were dipped, plunged, or over<g ref="char:EOLhyphen"/>whelmed: For it is from the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to dip, <hi>&amp;c.</hi> as I have already ſhewed.</p>
+            <p>In the <hi>7th</hi> Verſe, the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifie the ſame.</p>
+            <p>In the <hi>11th</hi> Verſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to dip, <hi>&amp;c.</hi>
+            </p>
+            <p>In Verſe the <hi>13th</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be dipped.</p>
+            <p>The Word is uſed again in <hi>ver.</hi> 14.</p>
+            <p>And the ſame alſo in the Paſſive Voice, is uſed in <hi>ver.</hi> 16. where it is ſaid, <hi>And Jeſus, when he was baptized,</hi> &amp;c. And the following words do make that Senſe evident; for when he was dipped by <hi>John</hi> in the River of <hi>Jordan,</hi> it is ſaid, <hi>He went up ſtraightway out of the Water:</hi> Which implies, beyond contradiction, That he was in the River, and o<g ref="char:EOLhyphen"/>ver whelmed with the Water, according to the proper and native ſignification of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And if you will read the <hi>5th</hi> and <hi>6th</hi> Verſes of this Chapter, you will find there Multitudes thus baptized by <hi>John the Baptiſt,</hi> (or <hi>Dipper</hi>) for it's ſaid, <hi>Then went out to him</hi> Jeruſalem, <hi>and all</hi> Judea, <hi>and all the Region round about</hi> Joran, <hi>and were baptized of him in</hi> Jordan. The ſame is alſo teſtified in that parallel place, <hi>Mark</hi> 1.4, 5. and the ſame Greek words uſed there as in <hi>Mat.</hi> 3. which I have above recited. And in <hi>Mark</hi> 1.9. <hi>Jeſus was baptized of</hi> John <hi>in</hi> Jordan. The Greek is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>into</hi> Jordan. Now what Senſe would this be? Jeſus was ſprinkled into <hi>Jordan.</hi> But to ſay, Jeſus was dipt into the River of <hi>Jordan,</hi> is good Senſe, as well as a great Truth.
+<pb n="11" facs="tcp:184789:6"/>
+               <hi>Diodate,</hi> upon <hi>Mat.</hi> 3.6. ſaith, <hi>They were plunged in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>der.</hi> And the Aſſembly in their <hi>Annotations,</hi> ſay, <hi>Dip<g ref="char:EOLhyphen"/>ping in</hi> Jordan. But becauſe they are noted by Mr. <hi>Wells</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Anſwer, I ſhall forbear reciting them, and proceed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other Authors.</p>
+            <p>
+               <hi>Cajetan</hi> ſaith, <hi>Chriſt was baptized, not by Sprinkling, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dipping him into the Water.</hi> And <hi>Piſcator,</hi> on <hi>John</hi> 3.23. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Baptiſm was adminiſtred by dipping the whole Body in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er.</hi>
+            </p>
+            <p>Mr. <hi>Mede</hi> on <hi>Titus</hi> 3.5. ſaith, <q>There was no ſuch thing as Sprinkling uſed in Baptiſm in the Apoſtles Time, nor many Ages after them.</q>
+            </p>
+            <p>It is alſo the Obſervation of that late Learned and Pious <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aiſter of Chriſt, Mr. <hi>John Goſnold,</hi> in his Book intituled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <q>That Mr. <hi>John Calvin,</hi> up and down in his Works, doth often (with many others in our Days) confeſs, That the Antient manner of Bap<g ref="char:EOLhyphen"/>tiſm in the Primitive Times was, by dipping the whole Body under Water. And alſo confeſſeth that the Church hath aſſumed this Liberty to her ſelf, of uſing Sprinkling in the room thereof.</q>
+            </p>
+            <p>The ſame Author alſo obſerves, <q>That the Tranſlators themſelves never ſo much as once in all the New Te<g ref="char:EOLhyphen"/>ſtament renders it by Sprinkling. There is another Word for that, which they conſtantly tranſlate <hi>to ſprin<g ref="char:EOLhyphen"/>kle,</hi> to wit, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Rantizo;</hi>
+               </q> whereby it's evident, Rantiſm is not Baptiſm, Sprinkling is not Dipping.</p>
+            <p>Beſides, in all the Places that I have met with, where nothing of the ſtreſs of this Controverſy depends, our Tranſlators have every where rendred <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> to dip. for inſtance, in <hi>Rev.</hi> 19.13. <hi>He had his Veſture dipt in Blood.</hi> and in <hi>Mat.</hi> 26.23. <hi>He that dippeth his Hand with me in the Diſh.</hi> Luke 16.24. <hi>That he may dip the Tip of his Finger in later.</hi> And in <hi>John</hi> 13.26. it is twice uſed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, dip<g ref="char:EOLhyphen"/>ped; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and when he had dipped, <hi>Jeſus an<g ref="char:EOLhyphen"/>ſwered, He it is to whom I ſhall give a Sop, when I have dip<g ref="char:EOLhyphen"/>ped it. And when he had dipped the Sop, he gave it to</hi> Judas <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eariot, <hi>&amp;c.</hi>
+            </p>
+            <p>Moreover, if we will but conſider the Places where this Holy Ordinance was adminiſtred by the firſt Baptizers, it will greatly elucidate this Truth.</p>
+            <p>
+               <pb n="12" facs="tcp:184789:7"/>
+For it was not practiſed in the Temple, nor in their Sy<g ref="char:EOLhyphen"/>nagogues, nor yet in private Houſes, in which it might have been done more commodiouſly, if ſprinkling a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Drops of Water upon their Faces would have ſufficed.</p>
+            <p>But they baptized in the River of <hi>Jordan,</hi> and other Places where there was much Water; becauſe plunging the whole Body under Water did require it.</p>
+            <p>In <hi>John</hi> 3.23. <hi>And</hi> John <hi>alſo</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>was dipping in</hi> Enon, <hi>near to</hi> Salim, <hi>becauſe there was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Water there;</hi> and they came and were (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) dip<g ref="char:EOLhyphen"/>ped. Now here we have the Reaſon given, why <hi>J<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> baptized in this place, <hi>i. e. Becauſe there was much Water.</hi> But if he had not plunged them into the Water, but on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſprinkled them with a few Drops thereof, this Reaſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been without Foundation. For as <hi>Cornelius à Lapide</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerves, A very little Water would have ſerved to have ſprinkled Thouſands. But their manner of baptizing be<g ref="char:EOLhyphen"/>ing to dip the whole Body under Water, therefore much Water was neceſſary thereunto, without which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Act of Baptizing could not be performed.</p>
+            <p>Now altho <hi>T. J.</hi> hath trampled upon our Reaſons of<g ref="char:EOLhyphen"/>fered in juſtification of this Practice, I hope he will not make ſo bold with the Spirit's Teſtimony, as to contra<g ref="char:EOLhyphen"/>dict the Reaſon he hath given in the Text under Conſide<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Thus you ſee that <hi>John,</hi> who was the firſt Baptizers and ſent of God to dip Perſons in Water, as the beginning of the Goſpel, and to prepare Chriſt's Way before him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Joh.</hi> 1.33. He that ſent me (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) to dip, plunge, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> overwhelm in Water, meaning God the Father. Where ever there is mention made of his Baptizing, the ſame Words are uſed, either <hi>Bapto,</hi> or its derivatives.</p>
+            <p>If we obſerve what is ſaid of our Saviour's Baptizing (tho Jeſus himſelf did not baptize (in his own Perſon) but by his Diſciples) in every place the ſame Word <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſed; as <hi>John</hi> 3.22. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Alſo <hi>John</hi> 4.1, 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; which all ſignify to dip, to be dipped, <hi>&amp;c.</hi>
+            </p>
+            <p>To proceed to the Practice of the Apoſtles, and chief Miniſters of the Goſpel, after our Lord's Reſurrection we ſhall find the ſame Word uſed (as above) in every place, where there is mention made of their Baptizing.</p>
+            <p>
+               <pb n="13" facs="tcp:184789:7"/>
+The firſt Inſtance is in <hi>Acts</hi> 2.41. <hi>Then they that gladly <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ved his Word, were baptized,</hi> the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>In <hi>Acts</hi> 8.12. it is alſo from the ſame word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were dipped, both Men and Women.</hi>
+            </p>
+            <p>And in <hi>Acts</hi> 8.38, 39. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>And he dipped him.</hi>
+            </p>
+            <p>It is here to be obſerved, that the Adminiſtrator <hi>Phi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> as well as the Eunuch, <hi>went both down into the Water,</hi> which had been needleſs, if Sprinkling would have ſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rn); And when they came there, it's ſaid, <hi>He <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>zed him,</hi> i. e. dipt him. And then it's further ſaid, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y came up out of the Water;</hi> not from the Side, or Surface <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, as Mr. <hi>James</hi> would inſinuate, by diſtinguiſhing be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>een from and out of; for here it is ſaid expreſly, <hi>they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up out of the Water.</hi>
+            </p>
+            <p>Alſo in <hi>Acts</hi> 10.48. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be dipped, <hi>&amp;c.</hi>
+            </p>
+            <p>To be ſhort, There is, you ſee, an Account that <hi>John the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ptiſt,</hi> Chriſt (by his Diſciples) when upon Earth, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Apoſtles after his Reſurrection, did all of them practiſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holy Ordinance of Baptiſm by dipping, or plunging <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſons baptized into the Water.</p>
+            <p>
+               <q>I will add to this the Teſtimony of Mr. <hi>Dan. Rogers;</hi> None of old were wont to be ſprinkled; And (ſaith he) I confeſs my ſelf unconvinced by demonſtration of Scrip<g ref="char:EOLhyphen"/>ture for Infants ſprinkling.</q> And further, in his Trea<g ref="char:EOLhyphen"/>tiſe of the two Sacraments, <hi>Part</hi> 1. <hi>Chap.</hi> 5. he hath theſe words, <q>It ought to be the Church's Part to cleave to the Inſtitution, which is Dipping. And that he betrays the Church, whoſe Officer he is, to a diſordered Error, if he cleave not to the Inſtitution, which is to dip.</q>
+            </p>
+            <p>And this leads me to the <hi>4th</hi> Particular, namely, That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will appear that Dipping is the right way of Baptizing, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we conſider that grand Commiſſion of our Saviour, <hi>Mat.</hi> 28.19. the Greek word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to dip. And being given here by way of Precept, it is Dipping them. But ſeeing I have already explained the ſignification of the Greek words by which Baptiſm is ſig<g ref="char:EOLhyphen"/>nified, even to tediouſneſs, both to my ſelf and you, I ſhall inſiſt no longer upon it.</p>
+            <p>As alſo, becauſe I am of Opinion that the Goſpel of <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> was written in Hebrew, according to <hi>Jerom</hi>'s Teſti<g ref="char:EOLhyphen"/>mony, and the Opinion (I think) of moſt Learned Men. I ſhall therefore give you the words, ſo far as they concern
+<pb n="14" facs="tcp:184789:8"/>our Purpoſe, under this Head, as they are in that Lan<g ref="char:EOLhyphen"/>guage, in which I am ſure it was ſpoken, if not written; It is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>vetabelu Otam;</hi> and dip ye them. The Root is <hi>Tabal,</hi> which is the third Perſon Singular in the Preterperfect Tenſe, and ſignifies, <hi>he dipped:</hi> And is ſo rendred in many places in Holy Scripture; particularly in 2 <hi>Kings</hi> 5.15. where ſpeaking of <hi>Naaman</hi> the <hi>Syrian,</hi> it is ſaid, <hi>He dipped himſelf in</hi> Jordan <hi>ſeven times, and was clean.</hi>
+            </p>
+            <p>In <hi>Mat.</hi> 3.6. you have the ſame Word again in the Paſſive Voice, which muſt be rendred in Engliſh, <hi>and were dipped of him in</hi> Jordan. And in <hi>Ver.</hi> 16. you have the ſame Root again, as it is there applied to our Saviour; <hi>And Jeſus, when he was dipped, went up ſtraightway out of the Water.</hi>
+            </p>
+            <p>Alſo in <hi>John</hi> 3.22, 23. the ſame Word is uſed. And in <hi>John</hi> 4.1, 2. it is the ſame in that Hebrew New Teſtament of Mr. <hi>Robertſon</hi>'s, who was certainly one of the moſt Learned Hebricians our Age hath afforded.</p>
+            <p>I might add to this the Teſtimony of the Dutch Tran<g ref="char:EOLhyphen"/>ſlators, who call <hi>John the Baptiſt, Johannes de Dooper, John the Dipper;</hi> and in this Commiſſion <hi>de ſelve dopende,</hi> dip<g ref="char:EOLhyphen"/>ping them. And if our Tranſlators had generally (where that Word had occurred) turned it into Engliſh, as they have into Dutch, they had ſaved me and others the trou<g ref="char:EOLhyphen"/>ble.</p>
+            <p>Now if all this will not ſuffice, I know not what will. However I will make Mr. <hi>James</hi> one generous Offer; That if he can ſhew me where our Tranſlators have in any one place rendred <hi>Baptizo</hi> to ſprinkle; or <hi>è contra,</hi> have rendred <hi>Rantizo</hi> to dip, in the New Teſtament, I will grant him the Cauſe. And I do hope, if he cannot do it, he will own that we are in the right.</p>
+            <p>O, what a Tyrant Cuſtom is! that dares ſtand up and contradict a thing that is ſo evident in it ſelf, ſo agreeable to the Reaſon of the Ordinance, to the Etymology of the Word, (and that from the Pens of our Adverſaries) and to the uſe of the Phraſe and Expreſſion in Holy Scripture, to the Commiſſion of our Lord, to the Doctrine and Pra<g ref="char:EOLhyphen"/>ctice of the firſt Baptizers, both before and after our Sa<g ref="char:EOLhyphen"/>viour's Reſurrection, and the manner of planting the Pri<g ref="char:EOLhyphen"/>mitive Churches.</p>
+            <p>
+               <pb n="15" facs="tcp:184789:8"/>
+Notwithſtanding all this (I ſay) Cuſtom in a wrong <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, makes Men bold to oppoſe the right Way, altho <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey acknowledg it is the beſt.</p>
+            <p>In things civil and indifferent, I can be content that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtom ſhould be my Guide, but not in the Matter of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dinances, and things Sacred; the Rule of which lies in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Inſtitution, (which we are ſtrictly to obſerve) and is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Power of our Liberty or Choice, either to uſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> refuſe: For that Bleſſing which attends the Uſe there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> is annexed unto our Conformity to the Rule and Inſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ion; ſee <hi>Mat.</hi> 28.20.</p>
+            <p>But to proceed to the ſecond General Head.</p>
+            <p>II. That true Penitent Believers are the right Subject of Baptiſm.</p>
+            <p>I ſhall make it good by doing theſe three things.</p>
+            <p n="1">
+               <hi>1ſt.</hi> By examining who <hi>John the Baptiſt</hi> (who was the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Baptizer) did admit to his Baptiſm.</p>
+            <p n="2">
+               <hi>2ly,</hi> Who our Saviour commanded to be baptized, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grand Commiſſion <hi>Mat.</hi> 28.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly,</hi> Who it was practiſed upon by the Apoſtles and firſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſters of Chriſt, purſuant to that Commiſſion. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe in their Order.</p>
+            <p n="1">
+               <hi>1ſt,</hi> Therefore let us examine who they were that <hi>John</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> admit to his Baptiſm.</p>
+            <p>The firſt Syllable we read of its being practiſed, is in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 3. by <hi>John the Dipper,</hi> (ſo called by the Evangeliſt, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eminentiae,</hi> as being the Beginner of that Holy Ordi<g ref="char:EOLhyphen"/>nance) where we have an Account, in <hi>Ver.</hi> 2. what Do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ne he preached before he baptized, <hi>Repent ye, for the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>dom of Heaven is at hand.</hi> And in <hi>ver.</hi> 5. <hi>Then went out <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Jeruſalem, <hi>and all</hi> Judea, <hi>and all the Region round a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Jordan. <hi>Ver.</hi> 6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were plunged (of him) into</hi> Jordan, <hi>confeſſing their Sins.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hebrew word alſo, is <hi>Vaitabelu, and were dipped,</hi> &amp;c.</p>
+            <p>Upon this I ſhall obſerve ſome things, and ſo paſs it.</p>
+            <p n="1">1. That thoſe he baptized were Adult Perſons, (and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Infants) for <hi>they went out to him.</hi>
+            </p>
+            <p n="2">2. That they were penitent Perſons, ſuch that confeſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their Sins.</p>
+            <p n="3">
+               <pb n="16" facs="tcp:184789:9"/>
+3. That no others were admitted to his Baptiſm.</p>
+            <p>For, in <hi>ver.</hi> 7. it's ſaid, <hi>But when he ſaw many of the P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>riſees and Sadduces come to his Baptiſm, he ſaid unto the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Generation of Vipers, who hath warned you to flee from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wrath to come? Bring forth therefore Fruits meet for Repent.</hi>
+            </p>
+            <p n="4">4. That no Birth-Privileges will entitle any Perſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Holy Ordinance without Repentance.</p>
+            <p>For the <hi>Baptiſt</hi> tells them, in <hi>ver.</hi> 9. <hi>Think not to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> within your ſelves, We have</hi> Abraham <hi>to our Father. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> (in <hi>ver.</hi> 10.) <hi>now alſo the Ax is laid to the Root of the Tr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> therefore every Tree</hi> (<hi>i. e.</hi> every Perſon) <hi>which bringeth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forth good Fruit, is hewen down and caſt into the Fire.</hi>
+            </p>
+            <p>And to inform them more fully of the Nature of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commiſſion, and the Qualifications of the Subjects, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> further ſaith, <hi>I indeed baptize you with Water</hi> (unto, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Original hath it) <hi>upon Repentance.</hi>
+            </p>
+            <p>Which agrees moſt exactly with the Deſign of <hi>Jo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Miniſtry, he being to make ready a People prepared <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord; Repentance being a neceſſary Qualification without which they could not be admitted thereunto.</p>
+            <p>But ſome may query, How I prove they were to believe as well as repent?</p>
+            <p>I anſwer, in the words of the Apoſtle <hi>Paul,</hi> Acts 19.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. John <hi>verily did baptize with the Baptiſm of Repentance, ſay<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> unto the People, That they ſhould believe on him which ſho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> come after him, that is, on Chriſt Jeſus.</hi>
+            </p>
+            <p>From all which it appears, beyond diſpute, That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little Infants were the Subjects of <hi>John</hi>'s Baptiſm. For,
+<list>
+                  <item>1. They could not come from <hi>Jeruſalem</hi> to the River<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Jordan,</hi> and deſire to be baptized.</item>
+                  <item>2. Nor could they confeſs their Sins.</item>
+                  <item>3. Nor yet be able to underſtand his Preaching, with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Nature and Deſign of his Baptiſm.</item>
+                  <item>4. Nor, laſtly, could they be expected to bring fo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Fruits worthy amendment of Life.</item>
+               </list>
+            </p>
+            <p>All which agrees only to Adult Perſons; they can <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pent, they can believe in Chriſt, they can confeſs th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſinful Deeds, and come to tender themſelves for Baptiſm (as all thoſe did whom <hi>John</hi> baptized) which things <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tle Infants are not capable to perform: Therefore Pe<g ref="char:EOLhyphen"/>tent Believers (and not Infants) were the right and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proper Subject of <hi>John</hi>'s Baptiſm.</p>
+            <p n="2">
+               <pb n="17" facs="tcp:184789:9"/>
+               <hi>2ly,</hi> I ſhall conſider the grand Commiſſion of our Lord, <hi>Mat.</hi> 28.18, 19, 20. <hi>And Jeſus came, and ſpake unto them, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing, All Power is given to me in Heaven and in Earth. Go <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore and teach all Nations, baptizing them in the Name of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Father, and of the Son, and of the Holy Ghoſt: Teaching <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to obſerve all things whatſoever I have commanded you: <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o, I am with you alway, even unto the End of the World. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em.</hi>
+            </p>
+            <p>That the Goſpel of <hi>Matthew</hi> was written in Hebrew, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I have touched above) I find it to be the Opinion of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers Men, eminently Learned: And among others, <hi>Hie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> in the Life of this Evangeliſt, ſaith, <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tthaeus qui <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Levi ex publicano Apoſtolos, primus in Judaea propter eos qui <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Circumciſione credidernt Evangelium Chriſti, Hebraicis literis <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>biſque compoſuit.</hi> And further notes, <hi>In quo animadverten<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, quod ubicumque Evangeliſta ſive ex perſona ſua, ſive ex <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ona Domini Salvatoris, veteris Scripturae teſtimoniis utitur, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſequatur Septuaginta tranſlatorum autoritatem, ſed Hebrai<g ref="char:EOLhyphen"/>cis.</hi> Here you ſee he tells us, That the Goſpel of Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Matthew,</hi> for the ſake of thoſe of the Circumciſion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believed, was written in Hebrew Words, and Hebrew <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ters. And that he every-where, in his Quotations out <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Old Teſtament, followed the Hebrew, and not the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uagint Tranſlation.</p>
+            <p>In Mr. <hi>William Robertſon</hi>'s Hebrew New Teſtament, I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe words between the <hi>18th</hi> and <hi>19th</hi> Verſes, which do not find in any Greek Copy.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>And as my Father hath ſent me, even ſo alſo I ſend you. Go <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore,</hi> &amp;c.</p>
+            <p>I pray obſerve in what a ſolemn manner our Saviour be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s this Commiſſion.</p>
+            <list>
+               <item>1. By declaring his own Authority; <hi>All Power in Heaven <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Earth is given to me.</hi>
+               </item>
+               <item>2. The Fulneſs of that Authority he gave to his Apo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es; <hi>As the Father hath ſent me, even ſo alſo I ſend you.</hi>
+               </item>
+            </list>
+            <p>He then comes to give forth the Commiſſion it ſelf, as in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>19th</hi> and <hi>20th</hi> Verſes.</p>
+            <p>
+               <pb n="18" facs="tcp:184789:10"/>
+The firſt thing in this Commiſſion is this, Chriſt com<g ref="char:EOLhyphen"/>mands them to make Diſciples by their Miniſtry. The Word that is tranſlated <hi>Teach,</hi> is in the Hebrew <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Velamedu,</hi> it ſignifies to make Diſciples by teaching; for the Root is <hi>Lamad,</hi> he learned. And from thence is for<g ref="char:EOLhyphen"/>med the Heemantique Noun <hi>Talmid,</hi> a Scholar or Diſci<g ref="char:EOLhyphen"/>ple, one that hath learned.</p>
+            <p>The plain meaning therefore is, That they were firſt to make Diſciples by their Miniſtry, and after that to bap<g ref="char:EOLhyphen"/>tize them.</p>
+            <p>If we alſo examine the Greek Copy, we ſhall find it to agree with the Hebrew; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. That word up<g ref="char:EOLhyphen"/>on which the whole Streſs of the Argument depends, is <hi>Matheteuſate,</hi> which ſignifies, to make Diſciples. The Learned render <hi>Mathetes,</hi> a Scholar, a Diſciple; and <hi>Ma<g ref="char:EOLhyphen"/>theteuo,</hi> to be a Scholar, or Diſciple. And upon this word in this place, the Greek <hi>Lexicon</hi> renders it, <hi>to make Diſciples.</hi>
+            </p>
+            <p>But if Mr. <hi>James</hi> will not believe our <hi>Lexicographers,</hi> I can give him the Opinion of all the Tranſlators of the New Teſtament for it, who have rendred it ſo in a multi<g ref="char:EOLhyphen"/>tude of Places; and ſo far as I have found, in every place where the word is uſed, except only in this Commiſſion, and here, (for ſome Reaſon beſt known to themſelves) inſtead of Diſciples, they have only rendred it <hi>Teach.</hi> And that which is moſt remarkable, they have five times in this Chapter rendred it <hi>Diſciples,</hi> till they came to the <hi>19th</hi> Verſe, and there only it muſt be rendred <hi>teach;</hi> as in <hi>ver.</hi> 7, 8, 9, 13, and 16. And in <hi>John</hi> 4.1, 2. <hi>Jeſus made and baptized more Diſciples than</hi> John, <hi>but his Diſciples;</hi> in both which the ſame word is uſed.</p>
+            <p>And I pray obſerve the Order of the words, They were firſt made Diſciples, and afterwards baptized; as a pre<g ref="char:EOLhyphen"/>requiſite to fit them for that Holy Ordinance.</p>
+            <p>Alſo in <hi>Acts</hi> 11.26. The Diſciples are called <hi>Chriſtians.</hi> And <hi>ver.</hi> 20, 21. it's ſaid, how the ſame Perſons came to be Diſciples, The Lord Jeſus was firſt preached to them; upon this, <hi>a great Number believed, and turned to the Lord.</hi> And thus they were made Diſciples, according to Chriſt's Commiſſion.</p>
+            <p>
+               <pb n="19" facs="tcp:184789:10"/>
+Beſides, in <hi>Mark</hi> 16.16. <hi>He that believeth, and is bap<g ref="char:EOLhyphen"/>tized, ſhall be ſaved.</hi> This place is parallel in Time with <hi>Mat.</hi> 28.19. And whereas in <hi>Matthew</hi> is required Diſci<g ref="char:EOLhyphen"/>pling, there is required in <hi>Mark</hi> Believing, and both be<g ref="char:EOLhyphen"/>fore Baptiſm; It's therefore plain, they muſt be be<g ref="char:EOLhyphen"/>lieving Diſciples. And Faith comes by hearing; and therefore the Apoſtles were,
+<list>
+                  <item>1. To preach to them; as in <hi>Mark</hi> 16.15. <hi>Preach the Goſpel to every Creature.</hi>
+                  </item>
+                  <item>2. By their Preaching to make them Diſciples.</item>
+                  <item>3. Being ſo made, to baptize them.</item>
+               </list>
+            </p>
+            <p>This is the genuine Senſe of our Lord's Commiſſion, <hi>Mat.</hi> 28.19.</p>
+            <p>Say ſome, they own they muſt firſt be made Diſciples, and afterwards baptized. But then they ask this Que<g ref="char:EOLhyphen"/>ſtion, How do we know that little Infants are not made Diſciples, by ſome ſecret Teaching of God?</p>
+            <p>And ſuppoſing this to be true, of thoſe who are born of believing Parents, they conclude they may be bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p>I anſwer; For Argument's ſake, I will for once appoſe with them; that not only the Infants of Be<g ref="char:EOLhyphen"/>levers, but all Infants, ſo ſoon as they are born into the World, are made Diſciples by ſome ſecret Teaching of God, (but how we ſhall prove either of our Suppoſitions, I know not); Nevertheleſs I deny that they are there<g ref="char:EOLhyphen"/>fore to be baptized by virtue of this Commiſſion. And low any mortal Man can know of this ſecret Work upon their Souls without Revelation. I can't imagine.</p>
+            <p>But pray conſider a few things, and it will ſet the Truth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e contend for in a clear Light. As,
+<list>
+                  <item>1. it was Chriſt the Son of God who gave this Commiſ<g ref="char:EOLhyphen"/>ſion. <hi>And Jeſus came and ſpake.</hi>
+                  </item>
+                  <item>2. Who did he give it unto? Not to his Father to make Diſciples of little Infants, by ſome ſecret Teaching of his, but to his Apoſtles that were Men, to make Diſciples by their Miniſtry; <hi>He ſpake unto them.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Concluſion is natural; which I ſhall form into this ſhort Syllogiſm.</p>
+            <p>
+               <pb n="20" facs="tcp:184789:11"/>
+If little Infants are not capable to be made Diſciples by the Miniſtry of Men;</p>
+            <p>Then they cannot poſſibly be the Subjects of Baptiſm intended in this Commiſſion.</p>
+            <p>But little Infants are not capable to be made Diſciples by the Miniſtry of Men;</p>
+            <p>
+               <hi>Ergo,</hi> They cannot poſſibly be the Subjects of Baptiſm intended in this Commiſſion.</p>
+            <p>The <hi>Major</hi> is undeniable, the <hi>Minor</hi> I thus prove.</p>
+            <p>If little Infants have no knowledg to diſcern between Good and Evil, then they are not capable to be made Diſciples by the Miniſtry of Men.</p>
+            <p>But they have no knowledg to diſcern between Good and Evil;</p>
+            <p>
+               <hi>Ergo;</hi> They are not capable to be made Diſciples by the Miniſtry of Men.</p>
+            <p>The <hi>Minor</hi> only is queſtionable, which I prove by Di<g ref="char:EOLhyphen"/>vine Authority, <hi>Deut.</hi> 1.39. <hi>Moreover your little Ones— and your Children, which in that Day had no knowledg between Good and Evil.</hi>
+            </p>
+            <p>So that the firſt Argument is made good, <hi>viz.</hi> That lit<g ref="char:EOLhyphen"/>tle Infants cannot poſſibly be the Subjects of Baptiſm in<g ref="char:EOLhyphen"/>tended in this Commiſſion.</p>
+            <p>Whereas ſome of our Antagoniſts ſay, the word them relates to all Nations: As they confute themſelves, by refuſing to baptize Turks and Jews, before they own Chriſt; ſo that they cannot extend it univerſally: Even ſo it appears, the word <hi>them,</hi> hath no reference unto all Nations, if they will but mind the Grammar of the Text.</p>
+            <p>For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>them,</hi> is of the Maſculine Gender, (but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all Nations, is of the Neuter) and a<g ref="char:EOLhyphen"/>grees with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Diſciples;</hi> and muſt have refe<g ref="char:EOLhyphen"/>rence to them, as the only Perſons fitted for Holy Bap<g ref="char:EOLhyphen"/>tiſm.</p>
+            <p>But to proceed,</p>
+            <p>
+               <hi>3ly,</hi> I ſhall ſhew you who it was practiſed upon by the Apoſtles, and firſt Miniſters of Chriſt, purſuant to the grand Commiſſion.</p>
+            <p>
+               <pb n="21" facs="tcp:184789:11"/>
+We find all along in the Hiſtory of the <hi>Acts of the Apo<g ref="char:EOLhyphen"/>ſtles,</hi> that Baptiſm was practiſed upon grown Perſons, that there Diſciples of Chriſt, having gladly received their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eaching, repented of their Sins, and believed the Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>el, which Infants are not capable to perform.</p>
+            <p>Acts 2.38. <hi>Repent, and he baptized.</hi> Ver. 41. <hi>Then they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gladly received his Word, were baptized.</hi> Ver. 44. <hi>And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that believed were together.</hi>
+            </p>
+            <p>Acts 8.12. <hi>When they believed</hi> Philip, <hi>preaching the things <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urning the Kingdom of God, and the Name of Jeſus Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were baptized, both Men and Women,</hi> not little Infants. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ver.</hi> 36. After <hi>Philip</hi> had preached Jeſus to the Eunuch, according to Chriſt's Commiſſion) they came unto a cer<g ref="char:EOLhyphen"/>tain Water; and he asked <hi>Philip, What did hinder him to be baptized?</hi> Philip <hi>anſwers, If thou believeſt wirh all thine heart, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mayeſt. And he anſwered, I believe that Jeſus Chriſt is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Son of God.</hi> And upon that Profeſſion of his Faith, he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> immediately baptized. So that we may learn hence, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at Faith is a pre-requiſite of Baptiſm; for <hi>Philip</hi> re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es Faith of the Eunuch, before he would baptize <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>So in the Jaylor's Caſe, <hi>Acts</hi> 16.31. <hi>Paul</hi> requires of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to <hi>believe on the Lord Jeſus Chriſt.</hi> And in <hi>ver.</hi> 33, 34. is ſaid, he was baptized, <hi>believing in God,</hi> &amp;c.</p>
+            <p>
+               <hi>Acts</hi> 18.8. Criſpus <hi>believed on the Lord; and many of the</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inthians <hi>hearing, believed, and were baptized.</hi> If theſe teſtimonies are not ſufficient, I know not what will.</p>
+            <p>I could in this place produce divers Teſtimonies from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> learned (were it needful) to prove that no Infants <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere baptized for about two hundred Years from Chriſt. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dr. <hi>Barlow</hi>'s Teſtimony: <q>There is (ſaith he) no juſt Evidence of Infant-Baptiſm, till about two hundred Years after Chriſt.</q>
+            </p>
+            <p>The Learned <hi>Curcellaeus</hi> affirms, <q>That the Cuſtom of baptizing Infants, was brought in without the Com<g ref="char:EOLhyphen"/>mandment of Chriſt, and did not begin before the third Century.</q>
+            </p>
+            <p>
+               <hi>Grotius,</hi> on <hi>Mat.</hi> 19.13. gives this Account; <q>That according to the Rule of Scripture, and agreeing with Reaſon it ſelf, the moſt part of the Greeks in all
+<pb n="22" facs="tcp:184789:12"/>Ages, even unto this Day, retain a Cuſtom of delay<g ref="char:EOLhyphen"/>ing Infant-Baptiſm, till they themſelves can give a Confeſſion of their Faith. And it is certain that <hi>Na<g ref="char:EOLhyphen"/>zianzen,</hi> though the Son of a Chriſtian Biſhop, who li<g ref="char:EOLhyphen"/>ved about the fourth Century, and was bred up in the Chriſtian Religion, was not baptized till he was about thirty Years of Age.</q>
+            </p>
+            <p>The ſame is alſo true of <hi>Chryſoſtom, Hierom, Ambroſe, Auguſtine,</hi> and others.</p>
+            <p>And as the Learned Dr. <hi>Dia. Veil</hi> obſerves, it does mani<g ref="char:EOLhyphen"/>feſtly appear, <q>That the wiſeſt of our Fathers in Chriſt, did not come to Baptiſm, until they were come to a ſtrong and confirmed Age and Wit. So that (it's plain) they were not baptized in their Infancy. Yea, further he ſaith, I could never read of ſo much as one of the Antient Fathers, for ſix hundred Years after Chriſt, that was baptized in his Infancy.</q>
+            </p>
+            <p>
+               <hi>Ludovicus Vives</hi> affirms in his <hi>Treatiſe de Civitate Dei,</hi> Lib. 1. cap. 27. <hi>Neminem olim conſueviſſe baptizari niſi adulta aeta<g ref="char:EOLhyphen"/>te, &amp; qui per ſe peteret baptiſnum, &amp; intelligeret quid ſit baptizari.</hi> None of old Time were wont to be baptized but in a grown Age, and who deſired it themſelves, and underſtood what it was to be baptized.</p>
+            <p>
+               <hi>Eraſmus</hi> in his <hi>Annotations</hi> on the E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtle to the <hi>Romans,</hi> affirms, <q>That baptizing of Children was not in uſe in <hi>Paul</hi>'s Time.</q>
+            </p>
+            <p>And Dr. <hi>Field,</hi> in his learned Treatiſe of the Church, <hi>pag.</hi> 729. affirms, <q>That many very antiently, who were born of Chriſtian Parents, put off their Baptiſm a long Time; inſomuch as ſome were elected Biſhops before they were baptized. As we read (ſaith he) of <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>broſe,</hi> &amp;c.</q>
+            </p>
+            <p>The Learned <hi>Boſſuet,</hi> ſpeaking of the manner of admi<g ref="char:EOLhyphen"/>niſtring Baptiſm, ſaith, <q>We never read in the Scripture, that any were baptized otherwiſe than by Immerſion, And we are able to prove, from the Acts of Councils and antient Rituals, that every-where in the whole Church throughout the World, for the ſpace of 1300 Years, Baptiſm was never adminiſtred but by Dip<g ref="char:EOLhyphen"/>ping, except only in Caſes of Neceſſity.</q>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:184789:12"/>
+And <hi>Bellarmine</hi> ſaith, <q>Infant-Baptiſm is called an <hi>Apo<g ref="char:EOLhyphen"/>ſtolical Tradition</hi> not written, becauſe it is not found written in any Apoſtolical Book.</q> 
+               <hi>Tom.</hi> 1. <hi>lib.</hi> 4. <hi>cap.</hi> 2.</p>
+            <p>Where by the way I ſhall note, That if a Man of his Parts and Learning could not find it there, I believe o<g ref="char:EOLhyphen"/>thers will have as little Succeſs in their ſearch after it: And it had been his Intereſt to have proved it from Scrip<g ref="char:EOLhyphen"/>ture as much as any, becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay a greater ſtreſs upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and theſe of his Religion; for they aſſert it to be neceſſary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation.</p>
+            <p>Let Mr. <hi>Ja<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> know, we do not bring the Teſtimo<g ref="char:EOLhyphen"/>nies of Hur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he Writers, becauſe we think the Holy Scriptures <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to juſtify our Cauſe. For I may ſay with <hi>Tertullian, Lib. contra Hermogenem, Adoro Scripturae ple<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itudi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp;c.</hi> I adore the Fulueſs of the Scripture, let <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>gexes</hi> ſhew that it is written.</p>
+            <p>But to ſatisfy the World that we are not ſingular in our Judgments about theſe Matters, as alſo to obviate an Objection of your Paſtor, who tells us in his laſt Trea<g ref="char:EOLhyphen"/>ſe, <hi>Pag.</hi> 20, <q>That at the rate ſome <hi>Baptiſts</hi> write and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> report the Words of the Learned, they would per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſwade ſilly People, all the Learned Men were almoſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Anabaptiſts,</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſelf-condemned, being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as they are in Opinion, though of a contrary Pra<g ref="char:EOLhyphen"/>ctice.</q>
+            </p>
+            <p>I anſwer, That although they are of a contrary Pra<g ref="char:EOLhyphen"/>ctice, I hope that can be no Bar to us from reciting their words in favour of our Opinion; For, <hi>Firmum eſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prohationis, quod ab ipſo adverſario ſumitur, ut veritas, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ipſis inimicis veritatis probetur.</hi> It is a forcible kind of Proof, which is taken from the Adverſary himſelf, when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Truth is proved from them that oppoſe the Truth. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd I have herein followed the Counſel of <hi>Lactantius,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1. c. 6. <hi>Eos ſuorum Teſtimoui<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> revincere,</hi> &amp;c. To convince <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem by their own Teſtimonies, which is the ſtrongeſt Con<g ref="char:EOLhyphen"/>viction that may be.</p>
+            <p>As it is truly ſaid by <hi>Chryſoſtom, Tunc illos maxime revin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us, cum ſuorum, in eos, dicta retorquemus.</hi> We do moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcibly convince them, when we can retort their own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yings againſt them.</p>
+            <p>
+               <pb n="24" facs="tcp:184789:13"/>
+And therefore as <hi>Lactantius, de vera ſapientia, cap.</hi> 12. faith, <hi>Satis firmum Teſtimonium, ad probandum veritatem, quod ab ipſis perhibetur inimieis.</hi> That is a ſound Argument for the proving of the Truth, which is ſetched from the Enemies of the Truth.</p>
+            <p>Yea, ſuppoſe it were but weak in it ſelf, yet it hath great weight againſt him that brings it. For, as the Ro<g ref="char:EOLhyphen"/>man Orator obſerves in the like Caſe; <hi>Tuum Teſtimonium, quod, in alienare, leve eſt; in tua, quoniam contra te eſt, gra<g ref="char:EOLhyphen"/>viſſinum eſſe debet.</hi> Thy Teſtimony, which is but light and frivolous in another Man's Cauſe, yet is weighty in thine own, when it is againſt thy ſelf.</p>
+            <p>Now I fancy that the Reaſon why Mr. <hi>James</hi> would not have us urge the Teſtimonies of the Learned, for fear of ſhewing how contradictory ſome of their Opinions have been to their Practices, is, leſt in ſo doing he alſo ſhould be found to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, condemned of himſelf; and that in many places of his Book, parti<g ref="char:EOLhyphen"/>cularly, when he brings a Poet to prove, that Chriſt was not baptized by Dipping.</p>
+            <p>And in <hi>Pag.</hi> 20. he ſaith, <q>I would fain know who can prove our Lord Jeſus Chriſt was dipped, or plunged, in his Baptiſm; or any of thoſe baptized Ones ſpoken of in the New Teſtament, were ſo dipped, or plunged?</q>
+            </p>
+            <p>I will give you the Opinion of ſome Learned Men up<g ref="char:EOLhyphen"/>on it in this very Place, altho I have ſaid ſufficient to it elſewhere; and then ſhew you how Mr. <hi>James</hi> is condem<g ref="char:EOLhyphen"/>ned by his own Pen.</p>
+            <p>
+               <q>Now if any one (ſaith <hi>Maldonate</hi>) ask why the Evan<g ref="char:EOLhyphen"/>geliſts uſe the Word of <hi>Aſcending?</hi> &amp;c. It was becauſe Chriſt aſcended, or went up out of the Water, in the which he had been dipt or drowned.</q>
+            </p>
+            <p>
+               <hi>Lucas Brugenſis,</hi> ſaith upon the Place, <hi>Matth.</hi> 3.16 <q>Chriſt deſcended into the River (after the manner o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> others that were baptized) as deep as his Thighs, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Navel, for the reſt of his Body was dipt by <hi>Joh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and not ſprinkled only with Water.</q>
+            </p>
+            <p>And the Learned <hi>Cajetan</hi> tells us upon the Place, <q>Chriſt aſcended out of the Water; therefore Chriſt was bapti<g ref="char:EOLhyphen"/>zed by <hi>John,</hi> not by Sprinkling, nor by pouring Wate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon him, but by Immerſion, that is, by dipping o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plunging in the Water.</q>
+               <pb n="25" facs="tcp:184789:13"/>Many more Teſtimonies might be brought from Men, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe Rantiſm inſtead of Baptiſm, but that I have al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> exceeded my firſt Intention. But I ſhall now ſhew <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Mr. <hi>James</hi> (like the reſt of thoſe I have quo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>) hath contradicted himſelf: For in the ſame <hi>20th</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his Book, where he vapours ſo mightily, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enges us to prove, that Chriſt, or any others, were <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ized by Dipping, as you have ſeen above; yet pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y he tells us, That Baptiſm was oft performed by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping, I gainſay not. And in the very next Page he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I do not produce theſe Teſtimonies, as tho I would <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tain that our Lord Jeſus was not dipped. It ſeems <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conſcience began to check him whilſt he was writ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>.</p>
+            <p>And again, in <hi>Pag.</hi> 25. Who ſpeaks againſt the Anti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity of <hi>Dipping?</hi> I thought Mr. <hi>James</hi> had. But he goes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Dipping</hi> there might be in Chriſt's Time, and that the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way of Baptizing. Very well, then it ſeems we pra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the moſt Antient, and the beſt Way of Baptizing, Mr. <hi>James</hi>'s Acknowledgment: And himſelf doth pra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the contrary, and therefore muſt needs be ſelf-con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, as practiſing the worſt Way; eſpecially if he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſider, That there is neither Precept nor Precedent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Infant-Sprinkling in all the Word of God.</p>
+            <p>But to cloſe this Head I am upon: If this be true, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Apoſtles, nor firſt Miniſters of the Goſpel, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever practiſe the Sprinkling, of Infants; there muſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome good Reaſon why they did it not: And the beſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> think of is, becauſe Chriſt had not commanded them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do. But on the contrary, had commanded them to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ize Penitent Believers, which were Perſons of grown <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s; to which Command they were obedient.</p>
+            <p>And we have great Reaſon to account them ſaithful: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Apoſtle <hi>Paul</hi> proteſts, before an Aſſembly of Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, <hi>Acts</hi> 20.20. He <hi>had kept back nothing that was <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>able to them.</hi> And in <hi>ver.</hi> 26. he ſaith, <hi>I have not ſhun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to declare to you all the Counſel of God.</hi> If there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Sprinkling of Infants had been profitable for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or a part of the Counſel of God concerning the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ches, we had certainly heard of it in ſome of <hi>Paul</hi>'s <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eches or Epiſtles: But not one Word being mentioned
+<pb n="26" facs="tcp:184789:14"/>about it, we may ſafely conclude, it was wholly unknown to thoſe Times, (both as to Subjects and Manner) it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing a Practice both unprofitable and vain, as being b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon Humane Authority only, having no Foundation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Word of God: <hi>In vain do they worſhip me, teaching <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Doctrines the Commandments of Men,</hi> Mat. 15.9.</p>
+            <p>I will offer an Argument or two, to prove that Infan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Sprinkling is not of Divine Authority.</p>
+            <p>The Sprinkling of Infants, is either from Heaven, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Men.</p>
+            <p>But it is not from Heaven: <hi>Ergo,</hi> It is of Men.</p>
+            <p>If it be from Heaven, the Holy Scriptures have ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> where revealed it ſo to be.</p>
+            <p>But it is no where ſo revealed in the Holy Scripture <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Ergo,</hi> It is not from Heaven.</p>
+            <p>If it be any where ſo revealed in the Holy Scripture you, or ſome other, are able to ſhew it.</p>
+            <p>But you, nor no other are able to ſhew it: <hi>Ergo,</hi> It <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not any where ſo revealed in the Holy Scriptures.</p>
+            <p>If Mr. <hi>James</hi> ſhould tell you he can ſhew it ſo to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let him give you an Inſtance where it is written, as al<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gician ought to do, (the <hi>Minor</hi> being an Univerſal Ne<g ref="char:EOLhyphen"/>gative) or let him for ever be ſilent upon this Subject<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For it is written, <hi>Rev.</hi> 22.18. <hi>If any Man ſhall add <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe things, God ſhall add unto him the Plagues that are writ<g ref="char:EOLhyphen"/>ten in this Book.</hi>
+            </p>
+            <p>I cannot well go off of this Head, without taking <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tice of a pernicious Notion which ſome of the Learned have eſpouſed.</p>
+            <p>They will allow us that we are in the right, as to wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> we aſſert about the practice of the Primitive Churche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but tell us, that their Ceremonies may be lawfully u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alſo, which they ground upon this following Suppoſition<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That it is lawful for Men to bring in things indifferent into the Church, and join them with the Worſhip <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God.</p>
+            <p>And as this refers to the Point of Baptiſm, I will bri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly relate what paſt ſome Years ago, betwixt Dr. <hi>Bail<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> late Biſhop of <hi>Lincoln,</hi> and my ſelf. It was upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:184789:14"/>Occaſion; A Name-ſake of mine being taken up upon a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and committed to <hi>Ailesbury</hi> Goal, for not having child ſprinkled, I went to his Lordſhip (after <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Months confinement) to deſire his Diſcharge; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old him, my Friend was not a Member of any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te Congregation, but only doubted of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Infant-Baptiſm, which I ſuppoſed his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hip thought he might do, and yet be a good <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ian.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> told me, <q>Yes, for he had tumblings and toſſings <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>out it in his own Mind in his younger Days, but now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was ſatisfied.</q>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſired then to know the Grounds of his Lordſhip's <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſtion.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid, <q>The Apoſtle <hi>Paul,</hi> in <hi>Rom.</hi> 13. and the be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing. exhorted the Chriſtians to ſubmit to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gher Powers, <hi>&amp;c.</hi> And alſo the Apoſtle <hi>Peter</hi> ſaid, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vour ſelves to every Ordinance of Man, for the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>d's ſake,</hi> &amp;c. Now (ſaith he) you muſt know <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Convocation met and concluded, that Infants <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould be baptized; and the King and Parliament en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed it: And foraſmuch as we are required to be obe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent to every Ordinance of Man for the Lord's ſake. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore we ought to do it.</q>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> anſwered; My Lord, If the Convocation had ſo con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, and the King and Parliament ſo enacted, That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould have been baptized in the King's Name, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Name of the King and Parliament as Legiſlators, I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere thoſe People might have complied with it.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> anſwered, "That would have been odd.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reply'd, As odd as it is, if they had comply'd with it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Controverſy had been at end.</p>
+            <p>He ſaid, <q>That is true; But why cannot they comply <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with it now?</q>
+            </p>
+            <p>My Lord, They have got a Notion in their Heads, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not in the Power of any Man, or number of Men in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> World, to alter the Nature of Inſtitutions, ſo as to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Divine that is in it ſelf Humane, or that Hu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e that is in it ſelf Divine.</p>
+            <p>The Biſhop reply'd; <q>They are right in that, for none <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alter the Nature of things but God alone.</q>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:184789:15"/>
+Why then, my Lord, foraſmuch as you do not baptized Infants in the Name of the King, or King and Parliament as an Humane Inſtitution, but in the Name of the Father Son, and Holy Spirit, as a Divine Inſtitution, they cannot comply with it.</p>
+            <p>
+               <q>Well (ſaith he) there is never a Word of God a<g ref="char:EOLhyphen"/>gainſt it: It is no where ſaid in the Scriptures ye ſhal not baptize Infants.</q>
+            </p>
+            <p>I reply'd;</p>
+            <p>My Lord, I ſhall only put your Lordſhip in mind of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Notes of a Learned Man upon that of <hi>Lev.</hi> 10.1, 2. con<g ref="char:EOLhyphen"/>cerning <hi>Nadab</hi> and <hi>Abihu,</hi> Sons of <hi>Aaron,</hi> Prieſts of the Lord; who offered ſtrange Fire before the Lord, which the Lord commanded them not. He ſaith, It is not ſuffi<g ref="char:EOLhyphen"/>cient to ſay about inſtituted Worſhip, It is nowhere for<g ref="char:EOLhyphen"/>bidden: For it was nowhere ſaid before this time; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſhall not offer up ſtrange Fire upon mine Altar.</hi> But becauſe there was a Divine Precept, what Fire they ſhould off<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what Perfume they ſhould mix with their Sacrifices, an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the manner of its Compoſition: And they not obſerving that Divine Precept; but offering ſtrange Fire, which th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lord commanded them not, they were deſtroyed by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from his Preſence. His Lordſhip only gave me this An<g ref="char:EOLhyphen"/>ſwer; He would ſpeak to his Official, to be kind to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Friend that was in Priſon, <hi>&amp;c.</hi> but wholly waved <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Matter in Controverſy; and ſo I took my leave, and de<g ref="char:EOLhyphen"/>parted.</p>
+            <p>I mention not this, as if I thought this Learned M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſingular in this Point; for it is too manifeſt, that m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> others are of the ſame Sentiments, without which the could not ſatisfy their Conſciences in the Practi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Infant ſprinkling, and other things which they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> practiſe without either Precept or Precedent from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Word of God.</p>
+            <p>There are many things very ridiculous, that have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Degrees been brought into the Church; of which it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> where ſaid in the Holy Scriptures, they ſhall not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> done. And that about this very Ordinance as well as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other Matters.</p>
+            <p>As for inſtance;</p>
+            <p n="1">1. Where is it forbidden to baptize Bells? This <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:184789:15"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> practiſed by the Popiſh Prieſts, and that very lately. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Where is it forbidden to uſe the Sign of the Croſs Baptiſm? as the Popiſh Prieſts do thrice, and the Epi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> once.</p>
+            <p>Where is it forbidden to uſe Cream and Spittle, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Papiſts do, to anoint the Childrens Eyes, Noſtrils, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ears, in their Practice of Baptiſm?</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Where is it forbidden to put Salt in the Child's <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th, as they alſo do? and give this Reaſon for it, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Words may be with Grace, ſeaſoned with Salt.</p>
+            <p>And where is it forbidden to baptize your Cattle? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet how ridiculous would it be ſo to do? But perhaps <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>James</hi> may pretend Scripture for it, from his Inter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of 1 <hi>Corinth.</hi> 10.2. For all their Cattle (of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich they left not a Hoof behind) <hi>were under the Cloud, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all paſſed through the Sea; and were all baptized unto</hi> Moſes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>the Cloud and in the Sea.</hi> The Word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich he leaves to Mr. <hi>Wells</hi> to interpret. And I pray ask <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if this Word, as here uſed in the paſſive Form, may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be read thus; And they were all overwhelmed unto <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as they muſt needs be when the Cloud covered them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Waters were a Wall to them on the Right-hand <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on the left. So that you ſee here is the ſame Ground <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onclude, their Cattle were all baptized as well as their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Children: But if the Word had been tranſlated <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>whelmed,</hi> who could have dreamt of a Baptiſm from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Place?</p>
+            <p>But Mr. <hi>James</hi> will have it that there was a Multitude <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Children baptized by <hi>Moſes,</hi> and that it was done by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inkling alſo, through the dropping of the Cloud, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> daſhing of the Waters; and that many learned Men <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>bt not of it; but hath not quoted one of them. I am <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Dutch Tranſlators, who were Presbyterians, read <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thus; <hi>Ende alle in Moſen Gedoopt Zin;</hi> And they were <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>dipt unto <hi>Moſes:</hi> And all learned Men do tell us, when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeak as Scholars, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is <hi>mergo, immergo;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> how it comes to loſe its Signification in this one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I cannot imagine.</p>
+            <p>But I pray ask Mr. <hi>James</hi> theſe few things;</p>
+            <p n="1">1. Who told him there was Water in that Cloud? For the Epiſtle of <hi>Jude</hi> ver. 12. we read of Clouds without
+<pb n="28" facs="tcp:184789:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:184789:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="30" facs="tcp:184789:17"/>Water: and we muſt remember that this Cloud <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miracle.</p>
+            <p n="2">2. If it had Water, who told him that it droppe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Children of <hi>Iſrael</hi> whileſt they paſt through <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sea? His <hi>ipſe dixit</hi> will not do where the Scri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſilent.</p>
+            <p n="3">3. How came he to know that the Waters daſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them? I cannot ſuppoſe that he was preſent to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And if it be nowhere written, 'tis but an impr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Gueſs.</p>
+            <p>But to leave off theſe triſling Fancies of Mr. <hi>James</hi> us ſee how it is written, Exod. 14.21. <hi>The L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the Sea dry Land, and the Waters were divided.</hi>
+            </p>
+            <p>Ver. 22. <hi>And the Children of</hi> Iſrael <hi>went into the midſt Sea upon the dry Ground, and the Waters were a Wall unto on their Right-hand and on their Left.</hi>
+            </p>
+            <p>Ver. 29. <hi>And they walked upon dry Land in the midſt Sea.</hi>
+            </p>
+            <p>Chap. 15.8. <hi>The Waters were gathered together Flood ſtood upright as an Heap, and the Depths were co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in the Heart of the Sea.</hi>
+            </p>
+            <p>Pſalm 106.9. <hi>He rebuked the Red-ſea alſo, and it wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed up; ſo he led them through the Depths as through the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>derneſs.</hi>
+            </p>
+            <p>Thus you ſee here is not one Word of Sprinkling of daſhing the Water upon them. As to the Cloud was no common Cloud, but a Cloud that did conſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> attend them in their paſſage through the Wilderneſs: <hi>Exod.</hi> 13.21, 22. <hi>And the Lord went before them by D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Pillar of a Cloud,</hi> &amp;c. He took not away the Pillar of Cloud by day, nor the Pillar of Fire by night, from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the People. See alſo <hi>Numb.</hi> 14.14. Now if the W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> were a Wall on each ſide, and the Cloud covered th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then they muſt need be overwhelmed. <hi>Pſalm</hi> 105. He <hi>ſpread a Cloud for a Covering, and Fire to give Light <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Night.</hi> But not one Word of this Cloud's having Wat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it, nor of its dropping upon them. What Cauſe have to be cautious, how you admit any thing for Truth upon Credit of your Teacher; who can allow himſelf the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>berty to talk at this looſe Rate about ſacred thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Beſides, if this he to be underſtood of Baptiſm as an O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="31" facs="tcp:184789:17"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to the Uſe of the Word in the New <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then I affirm (according to Mr. <hi>James</hi>'s <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if their Infants were baptized, all their Cattle <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wiſe baptized: But I hope he will be aſhamed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at ſuch an Expoſition; for beſides all other Ab<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that attend it, <hi>Moſes</hi> is hereby made the firſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er, and not <hi>John the Baptiſt.</hi> But I ſhall leave this, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the third and laſt general Head.</p>
+            <p>That the Ordinance of Baptiſm is now in being, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is to continue to the End of the World.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 28.20. <hi>Teaching them to obſerve all things what<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have commanded you; and lo, I am with you alway, even <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> End of the World.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Ordinance of Baptiſm in Water, being one <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e things he hath commanded, as in the Words <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing; then the Apoſtles were to teach all the ſuc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Churches to obſerve it, they being to teach them <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e all things he had commanded them; and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo the Promiſe of Chriſt's Preſence is annexed until <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>of the World:</hi> The Ordinance it ſelf is therefore <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>inue till that time.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>des, it was the Care of the Apoſtles, not only to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that preſent Age the Will of Chriſt, but alſo to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it continued to ſucceeding Ages: ſee 2 <hi>Tim.</hi> 2.2. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Charge here to <hi>Timothy</hi> is, <hi>The things which thou haſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of me among many Witneſſes, the ſame commit thou to faith<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, who ſhall be able to teach others alſo.</hi> And our Lord <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to thoſe faithful ones in <hi>Thyatyra,</hi> Rev. 2.24, 25. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>put upon you none other Burden; But that which ye have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, hold faſt till I come.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeeing we differ not about its Duration, (although <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> about the Subjects, and the right Manner of ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring the ſame) I ſhall add no more upon this Head. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been concerned with another ſort of People, I ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thought my ſelf obliged to have inſiſted more largely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſeech you conſider what I have ſaid; for it is in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Love to your Precious Souls; that you may no lon<g ref="char:EOLhyphen"/>ger
+<pb n="32" facs="tcp:184789:18"/>be deceived by falſe Teachers who handle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God deceitfully: But that you may come to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the true Doctrine of the Goſpel, and imbrace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which was once delivered to the Saints; wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firſt ſpoken by the Lord himſelf, and confirme <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Wonders, and divers Miracles and Gifts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit, according to his own Will.</p>
+            <p>For there is but one Law-giver to the Chur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him who is able to ſave and to deſtroy: He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all things whatſoever he hath ſaid unto you. Footſteps of the primitive and Apoſtolick Chur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that is the right Path, and the good old Way; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in, and ye ſhall find reſt for your Souls. Com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Word that Chriſt hath ſpoken, that ſhall the laſt Day. The Lord help every one of joy the Light of the Glorious Goſpel, to be fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereunto, that ſo we may receive that bleſled <hi>Well done good and faithful Servant, enter thou into thy Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
